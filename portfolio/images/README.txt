@@ -1,1 +1,0 @@
-Put your images here (e.g. me.jpg, ecom.png, task.jpg, food.jpg).
